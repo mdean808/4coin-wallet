@@ -1,0 +1,28 @@
+{
+  "name": "4coin-wallet",
+  "version": "0.0.5",
+  "description": "The best local wallet for 4coin!",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unicorn808/4coin-wallet.git"
+  },
+  "keywords": [
+    "crypto",
+    "currency",
+    "cryptocurrency",
+    "4coin",
+    "wallet",
+    "bitcoin",
+    "address"
+  ],
+  "author": "Unicorn808",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Unicorn808/4coin-wallet/issues"
+  },
+  "homepage": "https://github.com/Unicorn808/4coin-wallet#readme"
+}
