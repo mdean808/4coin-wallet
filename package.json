@@ -4,7 +4,7 @@
   "description": "The best local wallet for 4coin!",
   "main": "main.js",
   "scripts": {
-    "test": "electron ."
+    "start": "electron ."
   },
   "repository": {
     "type": "git",
@@ -27,6 +27,7 @@
   "homepage": "https://github.com/Unicorn808/4coin-wallet#readme",
   "dependencies": {
     "electron": "^1.7.9",
+    "material-css": "^0.7.0",
     "node-rest-client": "^3.1.0"
   }
 }
