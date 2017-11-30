@@ -1,5 +1,6 @@
+const divsToHide = $('.hide');
 function hideAllDivs(noHide) {
-	let divsToHide = $('.hide');
 	divsToHide.hide();
-	noHide.removeClass('hide')
+	noHide.show();
+	noHide.removeClass('hide');
 }
