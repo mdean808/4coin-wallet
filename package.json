@@ -26,8 +26,10 @@
   },
   "homepage": "https://github.com/Unicorn808/4coin-wallet#readme",
   "dependencies": {
-    "electron": "^1.7.9",
-    "material-css": "^0.7.0",
-    "node-rest-client": "^3.1.0"
+    "debug": "latest",
+    "electron": "latest",
+    "material-css": "latest",
+    "minimatch": "^3.0.2",
+    "node-rest-client": "latest"
   }
 }
